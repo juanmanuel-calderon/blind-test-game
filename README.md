@@ -8,7 +8,7 @@ The song will play for 10 seconds, then you can type the answer.
 
 You get 3 tries, 100 points per correct answer, and the hint costs 50 points.
 
-Requirements
+##Requirements
 
   VLC 64bit installed (game uses vlcj for music playing)
   
@@ -16,13 +16,13 @@ Requirements
   
   "Title" is used for the answer, "Album Artist" is used for the hint (else you get "[[Unknown]]").
 
-build
+##build
 
-  mvn clean compile assembly:single
+>mvn clean compile assembly:single
 
-launch
+##launch
 
-  java -jar <jarfile> <file>
+>java -jar <jarfile> <file>
 
 The <file> argument is the list of songs that will be used for the game: one filename per line.
   
