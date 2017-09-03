@@ -10,7 +10,7 @@ Requirements
 
   VLC 64bit installed (game uses vlcj for music playing)
   In your music files, the tag "Title" and "Album Artist" needs to be set.
-  "Title" is used for the answer, "Album Artist" is used for the hint (else you get "[[Unknown]]".
+  "Title" is used for the answer, "Album Artist" is used for the hint (else you get "[[Unknown]]").
 
 build
 
