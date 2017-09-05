@@ -22,7 +22,7 @@ You get 3 tries, 100 points per correct answer, and the hint costs 50 points.
 
 ## launch
 
->java -jar <jarfile> <file>
+>java -jar jarfile file
 
 The <file> argument is the list of songs that will be used for the game: one filename per line.
   
